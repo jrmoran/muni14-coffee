@@ -34,8 +34,8 @@ describe 'Muni14', ->
     '09': ['Cabañas',       9]
     '10': ['San Vicente',  13]
     '11': ['Usulután',     23]
-    '12': ['Morazán',      26]
-    '13': ['San Miguel',   20]
+    '12': ['San Miguel',   20]
+    '13': ['Morazán',      26]
     '14': ['La Unión',     18]
 
   describe 'departaments', ->
@@ -63,6 +63,7 @@ describe 'Muni14', ->
         '1004': 'San Esteban Catarina'
         '1121': 'San Simón'
         '1220': 'Uluazapa'       
+        '1307': 'El Rosario'       
         '1412': 'Pasaquina'
 
       for code, name of munis
