@@ -29,7 +29,7 @@ describe 'Muni14', ->
     '04': ['Chalatenango', 33]
     '05': ['La Libertad',  22]
     '06': ['San Salvador', 19]
-    '07': ['Cuscatlán',    17]
+    '07': ['Cuscatlán',    16]
     '08': ['La Paz',       22]
     '09': ['Cabañas',       9]
     '10': ['San Vicente',  13]
